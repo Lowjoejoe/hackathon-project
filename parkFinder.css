@@ -1,0 +1,40 @@
+#map { 
+    height: 650px;
+    width: 650px;  
+    background-position: center center; 
+    margin: auto;
+    border-radius: 20px;
+    text-align: center;
+}
+
+#main {
+    background-position: center; 
+    margin: auto;
+    text-align: center;
+    color: rgb(0, 0, 0); 
+    
+}
+
+#header { 
+    background-position: center; 
+    background-color: rgba(38, 42, 38, 0.382);
+    margin: auto;
+    text-align: center;
+    color: rgb(255, 255, 255); 
+    
+
+}
+
+body {
+    background-image: url(../hackaThon-Project/parkBackground.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+}
+
+a {
+    text-align: center;
+    color: rgb(255, 255, 255); 
+}
